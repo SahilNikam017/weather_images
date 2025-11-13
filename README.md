@@ -1,7 +1,6 @@
 # weather_images
 This repo is being used for integrating online images for weatherapi's background task
-![218903orig](https://github.com/user-attachments/assets/7da84851-2aa5-4cb0-aaa0-2121bd972c5f)
-<img width="4096" height="2272" alt="evening" src="https://github.com/user-attachments/assets/c70065ad-5083-4939-a16b-c94e200f78e3" />
-![afternoon](https://github.com/user-attachments/assets/8cf93cc7-ff03-4724-87c2-0f64e0fad975)
-![night](https://github.com/user-attachments/assets/41e76aa9-d4c7-4a67-bd54-0f6dfb43e8e5)
-<img width="4096" height="2250" alt="Morning" src="https://github.com/user-attachments/assets/b8d4dd1c-6e7d-4991-95a0-9ba37a813953" />
+![7490a32ed8e643d534254160e07c4a15](https://github.com/user-attachments/assets/e3e9c4ad-fecd-483c-9a8d-e4f0474fb110)
+![HD-wallpaper-empty-bridge-anime-scenery](https://github.com/user-attachments/assets/4b229514-5aaf-4588-8ea0-388383f05366)
+![9fd06c299ba487246f9832fed4618e60](https://github.com/user-attachments/assets/7079b313-5e45-47c0-87fb-fd3b762f7b44)
+![3b3cca5c979a570195ef433aae588f51](https://github.com/user-attachments/assets/a967e0ea-5acf-4e09-a132-79986cee9f4f)
